@@ -1,0 +1,2260 @@
+
+
+{
+  "movies":
+[
+  {
+    "id": "14n56op78-901q-23rs-tu45-678901wxy234",
+    "title": "K.G.F: Chapter 1",
+    "movie_trailer": "https://www.youtube.com/embed/gKizDojsdvs?rel=0",
+    "movie_img":"https://res.cloudinary.com/dl1y5q394/image/upload/fl_preserve_transparency/v1716463479/kgf_1_dxsv5u.jpg?_s=public-apps",
+    "view_count": "5.7M",
+    "published_at": "Dec 21, 2018",
+    "channel": {
+      "name": "Hombale Films",
+      "no_of_subscribers": "3.84M subscribers",
+      "profile_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Honevale_Films.jpg"
+    },
+    "comments": [
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Rahul Singh",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "This movie was amazing! Can't wait for the sequel!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Priya Patel",
+        "how_much_days_ago": "5 days ago",
+        "comment_description": "The action scenes were mind-blowing!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Rahul Sharma",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "One of the best Indian movies ever made!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Ananya Gupta",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "I've watched this movie multiple times, and it never gets old!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Karan Sharma",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Can't wait to see what's next from Hombale Films!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Neha Mishra",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The cinematography in this movie is stunning!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Rohan Patel",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "Brilliant performances by the cast!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nisha Singh",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Just watched it again, and it's as good as the first time!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Aarav Kumar",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Kudos to the entire team for such an epic movie!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Isha Sharma",
+        "how_much_days_ago": "4 months ago",
+        "comment_description": "The music in this movie is just outstanding!"
+      }
+    ]
+  },
+  {
+    "id": "23r56op78-901s-23tu-vw45-678901xyz234",
+    "title": "K.G.F: Chapter 2",
+    "movie_trailer": "https://www.youtube.com/embed/bDTUFufX-1s?rel=0",
+    "movie_img":"https://res.cloudinary.com/dl1y5q394/image/upload/fl_preserve_transparency/v1716463480/kgf_2_alstif.jpg?_s=public-apps",
+    "view_count": "6.2M",
+    "published_at": "Sep 10, 2021",
+    "channel": {
+      "name": "Hombale Films",
+      "no_of_subscribers": "3.84M subscribers",
+      "profile_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Honevale_Films.jpg"
+    },
+    "comments": [
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Suresh Kumar",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The wait for this movie was worth it!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Varsha Reddy",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "Amazing storyline and breathtaking visuals!"
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Mohan Kumar",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "I can't get over how good this movie is!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kavita Sharma",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "I'm eagerly waiting for the next installment!"
+      },
+      {
+        "profile_image_url": "G",
+        "name_of_viewer": "Ganesh Reddy",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Epic action sequences and gripping storyline!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Niharika Patel",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The performances were outstanding!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Rajesh Kumar",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "I can't wait to watch it again!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sneha Reddy",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "This movie exceeded all my expectations!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Anirudh Sharma",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "One of the best sequels ever made!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Pooja Singh",
+        "how_much_days_ago": "4 months ago",
+        "comment_description": "The direction and cinematography are top-notch!"
+      }
+    ]
+  },
+  {
+    "id": "1a2b3c4d-5e6f-7g8h-9i0j-123456klmno",
+    "title": "RRR - The Epic Battle",
+    "movie_trailer": "https://www.youtube.com/embed/NgBoMJy386M?rel=0",
+    "movie_img":"https://res.cloudinary.com/dl1y5q394/image/upload/fl_preserve_transparency/v1716463486/rrr_kisv8a.jpg?_s=public-apps",
+    "view_count": "10M",
+    "published_at": "Oct 22, 2021",
+    "channel": {
+      "name": "DVV Entertainment",
+      "no_of_subscribers": "1.5M subscribers",
+      "profile_image_url": "https://en.wikipedia.org/wiki/File:DVV_Danayya.jpg"
+    },
+    "comments": [
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Arjun Mehta",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This movie is a visual masterpiece!"
+      },
+      {
+        "profile_image_url": "L",
+        "name_of_viewer": "Lakshmi Reddy",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The performances were incredible!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sandeep Kumar",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "One of the best movies I've seen this year!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Priya Singh",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "A cinematic experience like no other!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikram Joshi",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "RRR sets a new benchmark for Indian cinema!"
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "Divya Patel",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The storyline and visuals are just perfect!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kiran Rao",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "An epic tale told beautifully!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ravi Sharma",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Can't stop thinking about this movie!"
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Manisha Gupta",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Everything about this movie is top-notch!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nikhil Kumar",
+        "how_much_days_ago": "4 months ago",
+        "comment_description": "RRR is a must-watch for everyone!"
+      }
+    ]
+  },
+  {
+    "id": "2b3c4d5e-6f7g-8h9i-0j1k-234567lmno",
+    "title": "Pushpa: The Rise - Part 1",
+    "movie_trailer": "https://www.youtube.com/embed/Q1NKMPhP8PY?rel=0",
+    "movie_img":"https://res.cloudinary.com/dl1y5q394/image/upload/fl_preserve_transparency/v1716463483/Pushpa_epb7c8.jpg?_s=public-apps",
+    "view_count": "12M",
+    "published_at": "Dec 17, 2021",
+    "channel": {
+      "name": "Mythri Movie Makers",
+      "no_of_subscribers": "2M subscribers",
+      "profile_image_url": "https://upload.wikimedia.org/wikipedia/en/6/63/Mythri_Movie_Makers_Logo_Srimanthudu.png"
+    },
+    "comments": [
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Shiva Reddy",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Allu Arjun's performance was phenomenal!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Anita Verma",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The music and action scenes were amazing!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Rahul Mehta",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Pushpa is a game-changer for Telugu cinema!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Pooja Nair",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "Can't wait for Part 2!"
+      },
+      {
+        "profile_image_url": "J",
+        "name_of_viewer": "Jay Kumar",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "An intense and thrilling movie!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tina Sharma",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The storyline kept me on the edge of my seat!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikash Singh",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "Allu Arjun has outdone himself!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kunal Das",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "One of the best performances by Allu Arjun!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ritika Gupta",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Pushpa's direction and music are superb!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Aman Sharma",
+        "how_much_days_ago": "4 months ago",
+        "comment_description": "The visuals and action sequences are mind-blowing!"
+      }
+    ]
+  },
+  {
+    "id": "3c4d5e6f-7g8h-9i0j-1k2l-345678mnop",
+    "title": "Baahubali: The Beginning",
+    "movie_trailer": "https://www.youtube.com/embed/Wup94kacYPM?rel=0",
+    "movie_img":"https://res.cloudinary.com/dl1y5q394/image/upload/fl_preserve_transparency/v1716463472/Baahubali_in0mpc.jpg?_s=public-apps",
+    "view_count": "50M",
+    "published_at": "Jul 10, 2015",
+    "channel": {
+      "name": "Arka Media Works",
+      "no_of_subscribers": "1.2M subscribers",
+      "profile_image_url": "https://en.wikipedia.org/wiki/File:Arka_Media_Works.jpg"
+    },
+    "comments": [
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sandeep Reddy",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "This movie is a masterpiece!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Anjali Mehta",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The visuals are breathtaking!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Karthik Kumar",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "A groundbreaking film in Indian cinema!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ritu Sharma",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "The story and execution are phenomenal!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikram Singh",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Can't wait to watch the sequel!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nidhi Patel",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "Prabhas delivered an outstanding performance!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Rajesh Kumar",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "An epic saga that redefined cinema!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tanvi Desai",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "The direction and special effects are top-notch!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Pooja Verma",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "One of the best movies I've ever seen!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Suresh Yadav",
+        "how_much_days_ago": "4 months ago",
+        "comment_description": "An unforgettable cinematic experience!"
+      }
+    ]
+  },
+  {
+    "id": "4d5e6f7g-8h9i-0j1k-2l3m-456789nopq",
+    "title": "Baahubali: The Conclusion",
+    "movie_trailer": "https://www.youtube.com/embed/V1Etz52ofXY?rel=0",
+    "movie_img":"https://res.cloudinary.com/dl1y5q394/image/upload/fl_preserve_transparency/v1716463472/Baahubali2_cnaflo.jpg?_s=public-apps",
+    "view_count": "80M",
+    "published_at": "Mar 16, 2017",
+    "channel": {
+      "name": "Arka Media Works",
+      "no_of_subscribers": "1.2M subscribers",
+      "profile_image_url": "https://en.wikipedia.org/wiki/File:Arka_Media_Works.jpg"
+    },
+    "comments": [
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Anil Kumar",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "The conclusion was epic and satisfying!"
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Meera Nair",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "A perfect end to an incredible saga!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sanjay Gupta",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "The visuals and story are just amazing!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Priyanka Sharma",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "The best movie I've seen in years!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikas Reddy",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Rajamouli has created a true masterpiece!"
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "Deepak Singh",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The action sequences are mind-blowing!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nisha Kumar",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "Prabhas and Rana were phenomenal!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kiran Gupta",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "The music and visuals are simply stunning!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Rohit Mehta",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "An epic conclusion to an epic story!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Simran Desai",
+        "how_much_days_ago": "4 months ago",
+        "comment_description": "This movie will be remembered for ages!"
+      }
+    ]
+  },
+  {
+    "id": "5e6f7g8h-9i0j-1k2l-3m4n-567890pqrstu",
+    "title": "Sye Raa Narasimha Reddy",
+    "movie_trailer": "https://www.youtube.com/embed/A4TZgqQ4KoY?rel=0",
+    "movie_img":"https://res.cloudinary.com/dl1y5q394/image/upload/fl_preserve_transparency/v1716463490/Sye_Raa_Narasimha_Reddy_izt4oc.jpg?_s=public-apps",
+    "view_count": "20M",
+    "published_at": "Aug 20, 2019",
+    "channel": {
+      "name": "Konidela Production Company",
+      "no_of_subscribers": "1.5M subscribers",
+      "profile_image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Konidela_Production_Company_logo.jpg/330px-Konidela_Production_Company_logo.jpg"
+    },
+    "comments": [
+      {
+        "profile_image_url": "C",
+        "name_of_viewer": "Chandrakant Reddy",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "A truly inspiring story of bravery!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sneha Varma",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "Chiranjeevi's performance is top-notch!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vishnu Sharma",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "The historical portrayal is so gripping!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kavya Mehta",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "Amazing direction and storytelling!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Rajesh Gupta",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "A must-watch for every Indian!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Anita Sharma",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The battle scenes are spectacular!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Puneet Kumar",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "A great tribute to a freedom fighter!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tarun Verma",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "The cinematography is world-class!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Neha Kapoor",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Chiranjeevi is at his best in this movie!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sumanth Reddy",
+        "how_much_days_ago": "4 months ago",
+        "comment_description": "An epic film with a powerful message!"
+      }
+    ]
+  },
+  {
+    "id": "6f7g8h9i-0j1k-2l3m-4n5o-678901pqrstuv",
+    "title": "Ala Vaikunthapurramuloo",
+    "movie_trailer": "https://www.youtube.com/embed/SkENAjfVoNI?rel=0",
+    "movie_img":"https://res.cloudinary.com/dl1y5q394/image/upload/fl_preserve_transparency/v1716463471/Ala_Vaikunthapurramuloo_gs7ddr.jpg?_s=public-apps",
+    "view_count": "30M",
+    "published_at": "Dec 11, 2019",
+    "channel": {
+      "name": "Geetha Arts",
+      "no_of_subscribers": "2.5M subscribers",
+      "profile_image_url": "https://upload.wikimedia.org/wikipedia/en/2/22/Geetha_Arts.jpg"
+    },
+    "comments": [
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Arjun Reddy",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "Allu Arjun's performance is electrifying!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kriti Verma",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The songs are so catchy and fun!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ravi Kumar",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "A perfect blend of action and comedy!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Snehal Patel",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "Trivikram has done an excellent job!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nitin Sharma",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Pooja Hegde is amazing in this movie!"
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Maya Reddy",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The screenplay is just brilliant!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Varun Kumar",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The movie is a visual treat!"
+      },
+      {
+        "profile_image_url": "D",
+        "name_of_viewer": "Divya Sharma",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "One of the best movies of 2019!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Pranav Gupta",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Loved every moment of it!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Swati Reddy",
+        "how_much_days_ago": "4 months ago",
+        "comment_description": "The choreography is fantastic!"
+      }
+    ]
+  },
+  {
+    "id": "7g8h9i0j-1k2l-3m4n-5o6p-789012qrstuv",
+    "title": "Sarkaru Vaari Paata",
+    "movie_trailer": "https://www.youtube.com/embed/xgJnUXqaIT4?rel=0",
+    "movie_img":"https://res.cloudinary.com/dl1y5q394/image/upload/fl_preserve_transparency/v1716463489/Sarkaru_Vaari_Paata_nx6lry.jpg?_s=public-apps",
+    "view_count": "15M",
+    "published_at": "Nov 12, 2021",
+    "channel": {
+      "name": "Mythri Movie Makers",
+      "no_of_subscribers": "1.2M subscribers",
+      "profile_image_url": "https://upload.wikimedia.org/wikipedia/en/6/63/Mythri_Movie_Makers_Logo_Srimanthudu.png"
+    },
+    "comments": [
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Manish Sharma",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "Mahesh Babu at his best!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Anjali Reddy",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The teaser looks so promising!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ravi Kumar",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Can't wait for the full movie!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sneha Varma",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "The action sequences look intense!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Varun Patel",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Mahesh Babu's charisma is unmatched!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nisha Sharma",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The background score is amazing!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Pooja Verma",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "This movie is going to be a blockbuster!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Karan Mehta",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Mahesh Babu never disappoints!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tarun Reddy",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "The visuals are stunning!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Rohini Patel",
+        "how_much_days_ago": "4 months ago",
+        "comment_description": "Eagerly waiting for this movie!"
+      }
+    ]
+  },
+  {
+    "id": "8h9i0j1k-2l3m-4n5o-6p7q-890123rstuvw",
+    "title": "Vakeel Saab",
+    "movie_trailer": "https://www.youtube.com/embed/7cL4cnuofR4?rel=0",
+    "movie_img":"https://res.cloudinary.com/dl1y5q394/image/upload/fl_preserve_transparency/v1716463492/Vakeel_Saab_b5gb7s.jpg?_s=public-apps",
+    "view_count": "18M",
+    "published_at": "Mar 29, 2021",
+    "channel": {
+      "name": "Sri Venkateswara Creations",
+      "no_of_subscribers": "1.8M subscribers",
+      "profile_image_url": "https://upload.wikimedia.org/wikipedia/en/9/90/Sri_Vekateshwara_Creations.jpg"
+    },
+    "comments": [
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Pawan Kumar",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "Powerstar Pawan Kalyan is back with a bang!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sunita Reddy",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "A powerful trailer for a powerful movie!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Ravi Shankar",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "This movie is going to be epic!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Anusha Sharma",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "The dialogues are so impactful!"
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Manoj Varma",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Pawan Kalyan's presence is mesmerizing!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Neha Singh",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "Can't wait to watch this in theaters!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kavya Mehta",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The direction looks fantastic!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tarun Gupta",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "This is going to be a massive hit!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sneha Kapoor",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "The trailer gives me goosebumps!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Anil Reddy",
+        "how_much_days_ago": "4 months ago",
+        "comment_description": "Pawan Kalyan's comeback is legendary!"
+      }
+    ]
+  },
+  {
+    "id": "9i0j1k2l-3m4n-5o6p-7q8r-901234stuvwx",
+    "title": "Radhe Shyam",
+    "movie_trailer": "https://www.youtube.com/embed/ZAP6q_Zv-4g?rel=0",
+    "movie_img":"https://res.cloudinary.com/dl1y5q394/image/upload/fl_preserve_transparency/v1716463484/Radhe_Shyam_u2svp3.jpg?_s=public-apps",
+    "view_count": "20M",
+    "published_at": "Mar 6, 2021",
+    "channel": {
+      "name": "UV Creations",
+      "no_of_subscribers": "2.3M subscribers",
+      "profile_image_url": "https://en.wikipedia.org/wiki/File:Konidela_Production_Company_logo.jpg"
+    },
+    "comments": [
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Amit Singh",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Prabhas and Pooja Hegde look stunning!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Rina Reddy",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The visuals are so beautiful!"
+      },
+      {
+        "profile_image_url": "V",
+        "name_of_viewer": "Vikram Kumar",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Can't wait to watch this love story!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sana Sharma",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "The trailer is so intriguing!"
+      },
+      {
+        "profile_image_url": "G",
+        "name_of_viewer": "Gopal Verma",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Prabhas never disappoints!"
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Meera Patel",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "This is going to be a blockbuster!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Priya Singh",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The chemistry between the leads is amazing!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Karan Mehta",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "The music is so soulful!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tina Gupta",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "This movie is going to be epic!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Rahul Patel",
+        "how_much_days_ago": "4 months ago",
+        "comment_description": "Eagerly waiting for the release!"
+      }
+    ]
+  },
+  {
+    "id": "0j1k2l3m-4n5o-6p7q-8r9s-012345tuvwxy",
+    "title": "Acharya",
+    "movie_trailer": "https://www.youtube.com/embed/BO9anUHXfKs?rel=0",
+    "movie_img":"https://res.cloudinary.com/dl1y5q394/image/upload/fl_preserve_transparency/v1716463470/Acharya_kf8vph.jpg?_s=public-apps",
+    "view_count": "12M",
+    "published_at": "Apr 29, 2021",
+    "channel": {
+      "name": "Konidela Production Company",
+      "no_of_subscribers": "1.5M subscribers",
+      "profile_image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Konidela_Production_Company_logo.jpg/330px-Konidela_Production_Company_logo.jpg"
+    },
+    "comments": [
+      {
+        "profile_image_url": "C",
+        "name_of_viewer": "Chiranjeevi Fan",
+        "how_much_days_ago": "1 day ago",
+        "comment_description": "Megastar Chiranjeevi is back!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Rajesh Kumar",
+        "how_much_days_ago": "3 days ago",
+        "comment_description": "The storyline looks so powerful!"
+      },
+      {
+        "profile_image_url": "M",
+        "name_of_viewer": "Manoj Reddy",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Chiru and Charan together are a treat!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sushmita Varma",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "The trailer is mind-blowing!"
+      },
+      {
+        "profile_image_url": "G",
+        "name_of_viewer": "Ganesh Patel",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Chiranjeevi's screen presence is unmatched!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nisha Singh",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "This movie is going to be a huge hit!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Pranav Sharma",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "Can't wait for the full movie!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Kavya Mehta",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "The action scenes look epic!"
+      },
+      {
+        "profile_image_url": "T",
+        "name_of_viewer": "Tarun Gupta",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "The visuals are stunning!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Rohini Patel",
+        "how_much_days_ago": "4 months ago",
+        "comment_description": "Eagerly waiting for this movie!"
+      }
+    ]
+  },
+  {
+  "id": "1k2l3m4n-5o6p-7q8r-9s0t-123456uvwxya",
+  "title": "F3: Fun and Frustration",
+  "movie_trailer": "https://www.youtube.com/embed/Zx3pJE1_B3s?rel=0",
+  "movie_img":"https://res.cloudinary.com/dl1y5q394/image/upload/fl_preserve_transparency/v1716463476/F3_ilgre6.jpg?_s=public-apps",
+  "view_count": "8M",
+  "published_at": "May 27, 2022",
+  "channel": {
+    "name": "Sri Venkateswara Creations",
+    "no_of_subscribers": "1.8M subscribers",
+    "profile_image_url": "https://upload.wikimedia.org/wikipedia/en/9/90/Sri_Vekateshwara_Creations.jpg"
+  },
+  "comments": [
+    {
+      "profile_image_url": "V",
+      "name_of_viewer": "Vijay Reddy",
+      "how_much_days_ago": "2 days ago",
+      "comment_description": "This movie is going to be hilarious!"
+    },
+    {
+      "profile_image_url": "A",
+      "name_of_viewer": "Anita Sharma",
+      "how_much_days_ago": "4 days ago",
+      "comment_description": "The comedy timing is perfect!"
+    },
+    {
+      "profile_image_url": "R",
+      "name_of_viewer": "Raj Kumar",
+      "how_much_days_ago": "1 week ago",
+      "comment_description": "Can't stop laughing at the trailer!"
+    },
+    {
+      "profile_image_url": "S",
+      "name_of_viewer": "Sonal Reddy",
+      "how_much_days_ago": "2 weeks ago",
+      "comment_description": "The cast is just amazing!"
+    },
+    {
+      "profile_image_url": "G",
+      "name_of_viewer": "Gaurav Patel",
+      "how_much_days_ago": "3 weeks ago",
+      "comment_description": "The fun elements are great!"
+    },
+    {
+      "profile_image_url": "N",
+      "name_of_viewer": "Nidhi Singh",
+      "how_much_days_ago": "1 month ago",
+      "comment_description": "This movie is going to be a laugh riot!"
+    },
+    {
+      "profile_image_url": "P",
+      "name_of_viewer": "Priya Verma",
+      "how_much_days_ago": "1 month ago",
+      "comment_description": "The trailer is super fun!"
+    },
+    {
+      "profile_image_url": "K",
+      "name_of_viewer": "Karan Mehta",
+      "how_much_days_ago": "2 months ago",
+      "comment_description": "Can't wait to watch this movie!"
+    },
+    {
+      "profile_image_url": "M",
+      "name_of_viewer": "Manoj Sharma",
+      "how_much_days_ago": "3 months ago",
+      "comment_description": "Looks like another hit from the team!"
+    },
+    {
+      "profile_image_url": "S",
+      "name_of_viewer": "Sneha Gupta",
+      "how_much_days_ago": "4 months ago",
+      "comment_description": "The humor is spot on!"
+    }
+  ]
+  },
+  {
+    "id": "12a34b56-c789-d012-e345-f6789ghijkl",
+    "title": "Major",
+    "movie_trailer": "https://www.youtube.com/embed/LbTN2dOJcbQ?rel=0",
+    "movie_img":"https://res.cloudinary.com/dl1y5q394/image/upload/fl_preserve_transparency/v1716463482/Major_bgmmva.jpg?_s=public-apps",
+    "view_count": "8.3M",
+    "published_at": "Jul 2, 2021",
+    "channel": {
+      "name": "Sony Pictures India",
+      "no_of_subscribers": "1.5M subscribers",
+      "profile_image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Konidela_Production_Company_logo.jpg/330px-Konidela_Production_Company_logo.jpg"
+    },
+    "comments": [
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Rahul",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "This movie looks incredibly inspiring!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Priya",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "I'm eagerly waiting to watch Major!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Suresh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "The trailer gave me goosebumps!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Krishna",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "A movie that portrays a real-life hero!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Neha",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Mighty impressed by the trailer!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Ajay",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "This is a must-watch!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Riya",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "Looking forward to this masterpiece!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nikhil",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Hats off to the entire team!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Ananya",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Excited to see Adivi Sesh's performance!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan",
+        "how_much_days_ago": "4 months ago",
+        "comment_description": "A true tribute to Major Sandeep Unnikrishnan!"
+      }
+    ]
+  },
+  {
+    "id": "13m45n67-o890-p123-q456-r7890stuvxyz",
+    "title": "Bangarraju",
+    "movie_trailer": "https://www.youtube.com/embed/nnieluXeW64?rel=0",
+    "movie_img":"https://res.cloudinary.com/dl1y5q394/image/upload/fl_preserve_transparency/v1716463473/Bangarraju_fs5skl.jpg?_s=public-apps",
+    "view_count": "12.7M",
+    "published_at": "Apr 6, 2022",
+    "channel": {
+      "name": "Vyjayanthi Movies",
+      "no_of_subscribers": "2.2M subscribers",
+      "profile_image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Konidela_Production_Company_logo.jpg/330px-Konidela_Production_Company_logo.jpg"
+    },
+    "comments": [
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Raj",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Nagarjuna's comeback is going to be epic!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Priya",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "Looking forward to this family entertainer!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Sai",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "This movie trailer made my day!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Krish",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "Intriguing storyline and stellar cast!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Neha",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "This movie looks like a blockbuster!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Anil",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "Nagarjuna's energy is infectious!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Riya",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "Can't wait to watch this with my family!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nikhil",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "One of the most anticipated movies of the year!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Ananya",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "This is going to be a laugh riot!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan",
+        "how_much_days_ago": "4 months ago",
+        "comment_description": "Nagarjuna's comic timing is impeccable!"
+      }
+    ]
+  },
+  {
+    "id": "16j12e34-r56s78-y90t12-u34v56-w78x90-y12z34",
+    "title": "Jersey",
+    "movie_trailer": "https://www.youtube.com/embed/kzv4lqpKi6k?rel=0",
+    "movie_img":"https://res.cloudinary.com/dl1y5q394/image/upload/fl_preserve_transparency/v1716463478/Jersey_yefc11.jpg?_s=public-apps",
+    "view_count": "6.9M",
+    "published_at": "Apr 19, 2019",
+    "channel": {
+      "name": "Sithara Entertainments",
+      "no_of_subscribers": "2.1M subscribers",
+      "profile_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Aha_OTT_Logo.svg/600px-Aha_OTT_Logo.svg.png"
+    },
+    "comments": [
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Rahul",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Nani's performance is outstanding!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Priya",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "This movie is a rollercoaster of emotions!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Suresh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "One of the best sports dramas I've seen!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Krishna",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "Nani never fails to impress!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Neha",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "The music adds so much depth to the movie!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Ajay",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "I cried, laughed, and cheered throughout the movie!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Riya",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "Heart-touching storyline and brilliant execution!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nikhil",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "A must-watch for all movie lovers!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Ananya",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "This movie deserves all the accolades!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan",
+        "how_much_days_ago": "4 months ago",
+        "comment_description": "Jersey is a masterpiece!"
+      }
+    ]
+  },
+  {
+    "id": "17e34v56-a78b90-c12d34-e56f78-g90h12-i34j56",
+    "title": "Evaru",
+    "movie_trailer": "https://www.youtube.com/embed/0_aKSQxQV4c?rel=0",
+    "movie_img":"https://res.cloudinary.com/dl1y5q394/image/upload/fl_preserve_transparency/v1716463474/Evaru_ydvm2d.jpg?_s=public-apps",
+    "view_count": "3.5M",
+    "published_at": "Aug 15, 2019",
+    "channel": {
+      "name": "Aha",
+      "no_of_subscribers": "5.2M subscribers",
+      "profile_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Aha_OTT_Logo.svg/600px-Aha_OTT_Logo.svg.png"
+    },
+    "comments": [
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Raj",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "This movie kept me on the edge of my seat!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Priya",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "What a thrilling experience!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Suresh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Evaru is a game-changer in Telugu cinema!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Krishna",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "The plot twists are mind-blowing!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Neha",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Regina Cassandra's performance is exceptional!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Ajay",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "Evaru is a must-watch for suspense lovers!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Riya",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "Thoroughly enjoyed every moment of Evaru!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nikhil",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "A brilliant thriller with an unpredictable storyline!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Ananya",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Evaru exceeded all my expectations!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan",
+        "how_much_days_ago": "4 months ago",
+        "comment_description": "One of the best suspense thrillers in recent times!"
+      }
+    ]
+  },
+  {
+    "id": "29g12a34-u56t78-a90m12-i34p56-u78t90-r12a34-s56a78-t90a12-k34a56-a78r90-n12i34",
+    "title": "Gautamiputra Satakarni",
+    "movie_trailer": "https://www.youtube.com/embed/3B2VY2BJy1g?rel=0",
+    "movie_img":"https://res.cloudinary.com/dl1y5q394/image/upload/fl_preserve_transparency/v1716463477/Gautamiputra_Satakarni_e2dsoc.jpg?_s=public-apps",
+    "view_count": "4.8M",
+    "published_at": "Jan 12, 2017",
+    "channel": {
+      "name": "First Frame Entertainments",
+      "no_of_subscribers": "1.8M subscribers",
+      "profile_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/First_Frame_logo.jpg"
+    },
+    "comments": [
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Raj",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "This historical epic is a visual treat!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Priya",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "Balakrishna's performance is awe-inspiring!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Suresh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Gautamiputra Satakarni is a must-watch!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Krishna",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "The grandeur of this movie is unmatched!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Neha",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "The battle sequences are breathtaking!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Ajay",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "Gautamiputra Satakarni is a masterpiece!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Riya",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "I'm proud to be a fan of Balakrishna!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nikhil",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "This movie is a tribute to our history!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Ananya",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Gautamiputra Satakarni is a cinematic marvel!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan",
+        "how_much_days_ago": "4 months ago",
+        "comment_description": "I can't get enough of this movie!"
+      }
+    ]
+  },
+  {
+    "id": "30l12e34-g56e78-n90d12",
+    "title": "Legend",
+    "movie_trailer": "https://www.youtube.com/embed/Px5nHPQZ-1o?rel=0",
+    "movie_img":"https://res.cloudinary.com/dl1y5q394/image/upload/fl_preserve_transparency/v1716463481/Legend_ed3auc.jpg?_s=public-apps",
+    "view_count": "7.2M",
+    "published_at": "Mar 28, 2014",
+    "channel": {
+      "name": "14 Reels Entertainment",
+      "no_of_subscribers": "2.6M subscribers",
+      "profile_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/14_Reels_Entertainment.jpg"
+    },
+    "comments": [
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Raj",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Legend never gets old!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Priya",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "This movie set new standards in Tollywood!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Suresh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Balakrishna's performance is legendary!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Krishna",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "Legend is a timeless classic!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Neha",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "One of my all-time favorite movies!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Ajay",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "I've watched Legend countless times!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Riya",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The dialogues are etched in my memory!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nikhil",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Balakrishna's swag in this movie is unmatched!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Ananya",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Legend is a true gem of Telugu cinema!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan",
+        "how_much_days_ago": "4 months ago",
+        "comment_description": "Balakrishna at his best!"
+      }
+    ]
+  },
+  {
+    "id": "27s12y34-e56t78m-90p12e34-r56",
+    "title": "Sye",
+    "movie_trailer": "https://www.youtube.com/embed/FAs0k7FjjX8?rel=0",
+    "movie_img":"https://res.cloudinary.com/dl1y5q394/image/upload/fl_preserve_transparency/v1716463491/sye_ainzvv.jpg?_s=public-apps",
+    "view_count": "2.3M",
+    "published_at": "Sep 23, 2023",
+    "channel": {
+      "name": "Sri Venkateswara Creations",
+      "no_of_subscribers": "1.5M subscribers",
+      "profile_image_url": "https://upload.wikimedia.org/wikipedia/en/9/90/Sri_Vekateshwara_Creations.jpg"
+    },
+    "comments": [
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Raj",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Sye is an absolute classic!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Priya",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "The patriotism in this movie is inspiring!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Suresh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Sye is a timeless sports drama!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Krishna",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "One of the best sports-based movies in Telugu cinema!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Neha",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "I'm proud to be a fan of Sye!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Ajay",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "Sye always gives me goosebumps!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Riya",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "Sye's impact is unmatched!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nikhil",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "An evergreen movie that I can watch over and over!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Ananya",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Sye is a timeless classic!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan",
+        "how_much_days_ago": "4 months ago",
+        "comment_description": "Sye's message is still relevant today!"
+      }
+    ]
+  },
+  {
+    "id": "28t12e34-m56p78-e90r12",
+    "title": "Temper",
+    "movie_trailer": "https://www.youtube.com/embed/W3xV22A6HJc?rel=0",
+    "movie_img":"https://res.cloudinary.com/dl1y5q394/image/upload/fl_preserve_transparency/v1716463492/Temper_xykpyj.jpg?_s=public-apps",
+    "view_count": "5.1M",
+    "published_at": "Feb 13, 2015",
+    "channel": {
+      "name": "Parameswara Art Productions",
+      "no_of_subscribers": "2.3M subscribers",
+      "profile_image_url": "https://upload.wikimedia.org/wikipedia/en/7/7c/Parameswara_Art_Productions.jpg"
+    },
+    "comments": [
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Raj",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Temper is a game-changer!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Priya",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "NTR's performance in Temper is unmatched!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Suresh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Temper is a must-watch for action lovers!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Krishna",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "I'm blown away by the intensity of Temper!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Neha",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "One of the best cop dramas in Telugu cinema!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Ajay",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "Temper's storyline keeps you hooked till the end!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Riya",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "NTR's energy in Temper is electrifying!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nikhil",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Temper is a perfect blend of action and drama!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Ananya",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "One of my favorite movies of all time!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan",
+        "how_much_days_ago": "4 months ago",
+        "comment_description": "Temper leaves a lasting impact!"
+      }
+    ]
+  },
+  {
+    "id": "25f12i34-d56a78a-90a12",
+    "title": "Fidaa",
+    "movie_trailer": "https://www.youtube.com/embed/yiiGeMjCY7c?rel=0",
+    "movie_img":"https://res.cloudinary.com/dl1y5q394/image/upload/fl_preserve_transparency/v1716463476/Fidaa_dxhtyz.jpg?_s=public-apps",
+    "view_count": "3.6M",
+    "published_at": "Jul 21, 2017",
+    "channel": {
+      "name": "Sri Venkateswara Creations",
+      "no_of_subscribers": "1.5M subscribers",
+      "profile_image_url": "https://upload.wikimedia.org/wikipedia/en/9/90/Sri_Vekateshwara_Creations.jpg"
+    },
+    "comments": [
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Raj",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Fidaa is a beautiful love story!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Priya",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "Varun Tej and Sai Pallavi's chemistry is amazing!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Suresh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Fidaa's music is soulful!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Krishna",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "One of Sekhar Kammula's best works!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Neha",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Fidaa is a must-watch for all romantics!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Ajay",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "Fidaa's dialogues are heart-touching!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Riya",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "One of the best love stories in recent times!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nikhil",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Fidaa's cinematography is stunning!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Ananya",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "I can watch Fidaa over and over again!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan",
+        "how_much_days_ago": "4 months ago",
+        "comment_description": "Fidaa is a gem of Telugu cinema!"
+      }
+    ]
+  },
+  {
+    "id": "26s12a34-a56a78h-90o12",
+    "title": "Saaho",
+    "movie_trailer": "https://www.youtube.com/embed/HNnt00swZ5Q?rel=0",
+    "movie_img":"https://res.cloudinary.com/dl1y5q394/image/upload/fl_preserve_transparency/v1716463487/Saaho_d4rb3p.jpg?_s=public-apps",
+    "view_count": "11.2M",
+    "published_at": "Aug 30, 2019",
+    "channel": {
+      "name": "UV Creations",
+      "no_of_subscribers": "2.8M subscribers",
+      "profile_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Honevale_Films.jpg"
+    },
+    "comments": [
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Raj",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Saaho is an action-packed extravaganza!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Priya",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "Prabhas's performance in Saaho is stellar!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Suresh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Saaho's VFX are mind-blowing!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Krishna",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "Saaho is a visual spectacle!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Neha",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "One of the biggest blockbusters of recent times!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Ajay",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "Saaho's twists and turns kept me hooked!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Riya",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "Saaho is a must-watch for action lovers!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nikhil",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Saaho is a complete entertainer!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Ananya",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Prabhas's swag in Saaho is unmatched!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan",
+        "how_much_days_ago": "4 months ago",
+        "comment_description": "Saaho is a visual treat!"
+      }
+    ]
+  },
+  {
+    "id": "23s12a34-rr56i78n90o12d",
+    "title": "Sarrainodu",
+    "movie_trailer": "https://www.youtube.com/embed/0b8OvRCrLms?rel=0",
+    "movie_img":"https://res.cloudinary.com/dl1y5q394/image/upload/fl_preserve_transparency/v1716463489/Sarrainodu_zcrems.jpg?_s=public-apps",
+    "view_count": "6.8M",
+    "published_at": "Apr 22, 2016",
+    "channel": {
+      "name": "Geetha Arts",
+      "no_of_subscribers": "3.2M subscribers",
+      "profile_image_url": "https://en.wikipedia.org/wiki/File:Geetha_Arts.jpg"
+    },
+    "comments": [
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Raj",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Sarrainodu is a complete mass entertainer!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Priya",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "Allu Arjun's performance in Sarrainodu is outstanding!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Suresh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Sarrainodu's action sequences are mind-blowing!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Krishna",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "One of Allu Arjun's best movies!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Neha",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Sarrainodu's music is catchy!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Ajay",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "Sarrainodu is a perfect blend of action and entertainment!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Riya",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "I can watch Sarrainodu again and again!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nikhil",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Sarrainodu is a treat for Allu Arjun fans!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Ananya",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Sarrainodu's dialogues are powerful!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan",
+        "how_much_days_ago": "4 months ago",
+        "comment_description": "Sarrainodu is a must-watch!"
+      }
+    ]
+  },
+  {
+    "id": "24b12h34-a56n78e-90n12u",
+    "title": "Bharat Ane Nenu",
+    "movie_trailer": "https://www.youtube.com/embed/QwoFu8U9Yoo?rel=0",
+    "movie_img":"https://res.cloudinary.com/dl1y5q394/image/upload/fl_preserve_transparency/v1716463474/Bharat_Ane_Nenu_q8cfwx.jpg?_s=public-apps",
+    "view_count": "9.4M",
+    "published_at": "Apr 20, 2018",
+    "channel": {
+      "name": "DVV Entertainments",
+      "no_of_subscribers": "2.7M subscribers",
+      "profile_image_url": "https://en.wikipedia.org/wiki/File:Geetha_Arts.jpg"
+    },
+    "comments": [
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Raj",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Bharat Ane Nenu is a masterpiece!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Priya",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "Mahesh Babu's performance in Bharat Ane Nenu is brilliant!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Suresh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Bharat Ane Nenu's storyline is gripping!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Krishna",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "One of Mahesh Babu's best movies!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Neha",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Bharat Ane Nenu's direction is top-notch!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Ajay",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "Bharat Ane Nenu is a must-watch for every Indian!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Riya",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "Mahesh Babu shines as Bharat!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nikhil",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Bharat Ane Nenu is a thought-provoking film!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Ananya",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "The message conveyed in Bharat Ane Nenu is powerful!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan",
+        "how_much_days_ago": "4 months ago",
+        "comment_description": "Bharat Ane Nenu is a cinematic gem!"
+      }
+    ]
+  },
+  {
+    "id": "21m12a34-h56a78r-90i12",
+    "title": "Maharshi",
+    "movie_trailer": "https://www.youtube.com/embed/ByjXIbg4hjw?rel=0",
+    "movie_img":"https://res.cloudinary.com/dl1y5q394/image/upload/fl_preserve_transparency/v1716463482/Maharshi_oqejkv.jpg?_s=public-apps",
+    "view_count": "7.9M",
+    "published_at": "May 9, 2019",
+    "channel": {
+      "name": "Sri Venkateswara Creations",
+      "no_of_subscribers": "1.5M subscribers",
+      "profile_image_url": "https://upload.wikimedia.org/wikipedia/en/9/90/Sri_Vekateshwara_Creations.jpg"
+    },
+    "comments": [
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Raj",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Maharshi is a must-watch!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Priya",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "Maharshi's storyline is inspiring!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Suresh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Maharshi's music is soul-stirring!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Krishna",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "One of Mahesh Babu's best performances!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Neha",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Maharshi is a complete entertainer!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Ajay",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The message conveyed in Maharshi is impactful!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Riya",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "Mahesh Babu's transformation in Maharshi is commendable!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nikhil",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Maharshi is a reflection of real-life struggles!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Ananya",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "I was deeply moved by Maharshi's story!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan",
+        "how_much_days_ago": "4 months ago",
+        "comment_description": "Maharshi is a masterpiece!"
+      }
+    ]
+  },
+  {
+    "id": "22r12a34-n56g78a-90l12",
+    "title": "Rangasthalam",
+    "movie_trailer": "https://www.youtube.com/embed/sueMmTm-M4Y?rel=0",
+    "movie_img":"https://res.cloudinary.com/dl1y5q394/image/upload/fl_preserve_transparency/v1716463485/Rangasthalam_vzpgw6.jpg?_s=public-apps",
+    "view_count": "8.3M",
+    "published_at": "Mar 30, 2018",
+    "channel": {
+      "name": "Mythri Movie Makers",
+      "no_of_subscribers": "2.3M subscribers",
+      "profile_image_url": "https://upload.wikimedia.org/wikipedia/en/6/63/Mythri_Movie_Makers_Logo_Srimanthudu.png"
+    },
+    "comments": [
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Raj",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Rangasthalam is a classic!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Priya",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "Ram Charan's performance in Rangasthalam is phenomenal!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Suresh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Rangasthalam's music is soulful!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Krishna",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "One of Sukumar's best directorial ventures!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Neha",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Rangasthalam is a visual treat!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Ajay",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "The rural backdrop in Rangasthalam is captured beautifully!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Riya",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "Samantha's portrayal in Rangasthalam is commendable!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nikhil",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Rangasthalam is a must-watch for every Telugu cinema lover!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Ananya",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Rangasthalam's screenplay keeps you engaged throughout!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan",
+        "how_much_days_ago": "4 months ago",
+        "comment_description": "Rangasthalam is a cinematic gem!"
+      }
+    ]
+  },
+  {
+    "id": "18a12r34-j56u78n90r12e",
+    "title": "Arjun Reddy",
+    "movie_trailer": "https://www.youtube.com/embed/aozErj9NqeE?rel=0",
+    "movie_img":"https://res.cloudinary.com/dl1y5q394/image/upload/fl_preserve_transparency/v1716463472/Arjun_Reddy_wyouzz.jpg?_s=public-apps",
+    "view_count": "10.5M",
+    "published_at": "Aug 25, 2017",
+    "channel": {
+      "name": "Bhadrakali Pictures",
+      "no_of_subscribers": "1.8M subscribers",
+      "profile_image_url": "https://upload.wikimedia.org/wikipedia/en/9/90/Sri_Vekateshwara_Creations.jpg"
+    },
+    "comments": [
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Raj",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Arjun Reddy is an intense love story!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Priya",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "Vijay Deverakonda's performance in Arjun Reddy is outstanding!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Suresh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Arjun Reddy's music is soul-stirring!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Krishna",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "Arjun Reddy's raw portrayal of emotions is commendable!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Neha",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Arjun Reddy is a trendsetter in Telugu cinema!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Ajay",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "Arjun Reddy is a rollercoaster of emotions!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Riya",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "Arjun Reddy's cinematography is breathtaking!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nikhil",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Arjun Reddy is a masterpiece!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Ananya",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Arjun Reddy is a must-watch for every cinema lover!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan",
+        "how_much_days_ago": "4 months ago",
+        "comment_description": "Arjun Reddy is a game-changer in Telugu cinema!"
+      }
+    ]
+  },
+  {
+    "id": "19g12e34e-n56d78a90m12",
+    "title": "Geetha Govindam",
+    "movie_trailer": "https://www.youtube.com/embed/aDXSyMwQbLo?rel=0",
+    "movie_img":"https://res.cloudinary.com/dl1y5q394/image/upload/fl_preserve_transparency/v1716463478/Geetha_Govindam_x83waf.jpg?_s=public-apps",
+    "view_count": "12.2M",
+    "published_at": "Aug 15, 2018",
+    "channel": {
+      "name": "GA2 Pictures",
+      "no_of_subscribers": "2.1M subscribers",
+      "profile_image_url": "https://upload.wikimedia.org/wikipedia/en/9/90/Sri_Vekateshwara_Creations.jpg"
+    },
+    "comments": [
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Raj",
+        "how_much_days_ago": "2 days ago",
+        "comment_description": "Geetha Govindam is a perfect blend of romance and comedy!"
+      },
+      {
+        "profile_image_url": "P",
+        "name_of_viewer": "Priya",
+        "how_much_days_ago": "4 days ago",
+        "comment_description": "Vijay Deverakonda and Rashmika Mandanna's chemistry in Geetha Govindam is electrifying!"
+      },
+      {
+        "profile_image_url": "S",
+        "name_of_viewer": "Suresh",
+        "how_much_days_ago": "1 week ago",
+        "comment_description": "Geetha Govindam's music is catchy!"
+      },
+      {
+        "profile_image_url": "K",
+        "name_of_viewer": "Krishna",
+        "how_much_days_ago": "2 weeks ago",
+        "comment_description": "Geetha Govindam is a feel-good entertainer!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Neha",
+        "how_much_days_ago": "3 weeks ago",
+        "comment_description": "Geetha Govindam's dialogues are hilarious!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Ajay",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "Geetha Govindam is a laughter riot!"
+      },
+      {
+        "profile_image_url": "R",
+        "name_of_viewer": "Riya",
+        "how_much_days_ago": "1 month ago",
+        "comment_description": "Geetha Govindam's screenplay keeps you engaged throughout!"
+      },
+      {
+        "profile_image_url": "N",
+        "name_of_viewer": "Nikhil",
+        "how_much_days_ago": "2 months ago",
+        "comment_description": "Geetha Govindam is a refreshing love story!"
+      },
+      {
+        "profile_image_url": "A",
+        "name_of_viewer": "Ananya",
+        "how_much_days_ago": "3 months ago",
+        "comment_description": "Geetha Govindam is a must-watch for its entertainment quotient!"
+      },
+      {
+        "profile_image_url": "I",
+        "name_of_viewer": "Ishaan",
+        "how_much_days_ago": "4 months ago",
+        "comment_description": "Geetha Govindam is a delightful film!"
+      }
+    ]
+  },
+  {
+  "id": "20s12a34r-n56e78e90k12u",
+  "title": "Sarileru Neekevvaru",
+  "movie_trailer": "https://www.youtube.com/embed/e4ExVtu7J8w?rel=0",
+  "movie_img":"https://res.cloudinary.com/dl1y5q394/image/upload/fl_preserve_transparency/v1716463488/Sarileru_Neekevvaru_lbnjgo.jpg?_s=public-apps",
+  "view_count": "14.5M",
+  "published_at": "Jan 11, 2020",
+  "channel": {
+    "name": "AK Entertainments",
+    "no_of_subscribers": "2.7M subscribers",
+    "profile_image_url": "https://upload.wikimedia.org/wikipedia/en/9/90/Sri_Vekateshwara_Creations.jpg"
+  },
+  "comments": [
+    {
+      "profile_image_url": "R",
+      "name_of_viewer": "Raj",
+      "how_much_days_ago": "2 days ago",
+      "comment_description": "Sarileru Neekevvaru is a complete entertainer!"
+    },
+    {
+      "profile_image_url": "P",
+      "name_of_viewer": "Priya",
+      "how_much_days_ago": "4 days ago",
+      "comment_description": "Mahesh Babu's performance in Sarileru Neekevvaru is top-notch!"
+    },
+    {
+      "profile_image_url": "S",
+      "name_of_viewer": "Suresh",
+      "how_much_days_ago": "1 week ago",
+      "comment_description": "Sarileru Neekevvaru's action sequences are mind-blowing!"
+    },
+    {
+      "profile_image_url": "K",
+      "name_of_viewer": "Krishna",
+      "how_much_days_ago": "2 weeks ago",
+      "comment_description": "Sarileru Neekevvaru is a perfect blend of comedy and action!"
+    },
+    {
+      "profile_image_url": "N",
+      "name_of_viewer": "Neha",
+      "how_much_days_ago": "3 weeks ago",
+      "comment_description": "The patriotism angle in Sarileru Neekevvaru is inspiring!"
+    },
+    {
+      "profile_image_url": "A",
+      "name_of_viewer": "Ajay",
+      "how_much_days_ago": "1 month ago",
+      "comment_description": "Sarileru Neekevvaru is a blockbuster!"
+    },
+    {
+      "profile_image_url": "R",
+      "name_of_viewer": "Riya",
+      "how_much_days_ago": "1 month ago",
+      "comment_description": "The comedy timing in Sarileru Neekevvaru is impeccable!"
+    },
+    {
+      "profile_image_url": "N",
+      "name_of_viewer": "Nikhil",
+      "how_much_days_ago": "2 months ago",
+      "comment_description": "Sarileru Neekevvaru is a must-watch for Mahesh Babu fans!"
+    },
+    {
+      "profile_image_url": "A",
+      "name_of_viewer": "Ananya",
+      "how_much_days_ago": "3 months ago",
+      "comment_description": "Sarileru Neekevvaru's dialogues are powerful!"
+    },
+    {
+      "profile_image_url": "I",
+      "name_of_viewer": "Ishaan",
+      "how_much_days_ago": "4 months ago",
+      "comment_description": "Sarileru Neekevvaru is an action-packed entertainer!"
+    }
+  ]
+  }
+  ]
+
+}
+
+
