@@ -7,7 +7,7 @@ app.use(cors());
 app.use(express.json());
 
 // Route to get all videos or filter by title
-app.get("/videos", (req, res) => {
+app.get("/trendVideos", (req, res) => {
   try {
     const title = req.query.title;
     if (!title) {
@@ -27,7 +27,7 @@ app.get("/videos", (req, res) => {
 });
 
 // Route to get a video by ID
-app.get("/videos/:id", (req, res) => {
+app.get("/trendVideos/:id", (req, res) => {
   try {
     const id = req.params.id;
     const video = movies.videos.find((video) => video.id === id); // Corrected variable name
