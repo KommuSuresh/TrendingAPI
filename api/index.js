@@ -1,43 +1,43 @@
 const express = require("express");
-const movies = require("../MoviesData.json"); // Assuming your movie data is stored in a file named MoviesData.json
+const videos = require("../TrendingData.json"); // Assuming your video data is stored in a file named TrendingData.json
 const app = express();
 const cors = require("cors");
 
 app.use(cors());
 app.use(express.json());
 
-// Route to get all movies or filter by title
-app.get("/movies", (req, res) => {
+// Route to get all videos or filter by title
+app.get("/videos", (req, res) => {
   try {
     const title = req.query.title;
     if (!title) {
-      // If no search query is provided, send back all movies
-      res.json(movies.movies);
+      // If no search query is provided, send back all videos
+      res.json(videos.videos);
     } else {
-      // If search query is provided, filter movies based on the query
-      const filteredMovies = movies.movies.filter((movie) =>
-        movie.title.toLowerCase().includes(title.toLowerCase())
+      // If search query is provided, filter videos based on the query
+      const filteredVideos = videos.videos.filter((video) =>
+        video.title.toLowerCase().includes(title.toLowerCase())
       );
-      res.json(filteredMovies.length > 0 ? filteredMovies : { message: "No movies found" });
+      res.json(filteredVideos.length > 0 ? filteredVideos : { message: "No videos found" });
     }
   } catch (error) {
-    console.error("Error fetching movies:", error);
+    console.error("Error fetching videos:", error);
     res.status(500).json({ message: "Internal Server Error" });
   }
 });
 
-// Route to get a movie by ID
-app.get("/movies/:id", (req, res) => {
+// Route to get a video by ID
+app.get("/videos/:id", (req, res) => {
   try {
     const id = req.params.id;
-    const movie = movies.movies.find((movie) => movie.id === id);
-    if (movie) {
-      res.json(movie);
+    const video = videos.videos.find((video) => video.id === id);
+    if (video) {
+      res.json(video);
     } else {
-      res.status(404).json({ message: "Movie not found" });
+      res.status(404).json({ message: "Video not found" });
     }
   } catch (error) {
-    console.error("Error fetching movie by ID:", error);
+    console.error("Error fetching video by ID:", error);
     res.status(500).json({ message: "Internal Server Error" });
   }
 });
